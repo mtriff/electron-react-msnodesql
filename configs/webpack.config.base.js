@@ -20,6 +20,10 @@ export default {
             cacheDirectory: true
           }
         }
+      },
+      {
+        test: /\.node$/,
+        use: 'node-loader'
       }
     ]
   },

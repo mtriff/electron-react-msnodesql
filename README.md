@@ -1,3 +1,9 @@
+
+# Example repository for using [msnodesqlv8](https://github.com/TimelordUK/node-sqlserver-v8) with [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) in development and production builds.
+
+
+<br />
+
 <img src="internals/img/erb-banner.png" width="100%" />
 
 <br>
